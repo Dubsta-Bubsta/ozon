@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 https://dubsta-bubsta.github.io/ozon/
 # OZON - online shop  
 Created in August 2019
@@ -11,17 +10,3 @@ As a result, I got a good experience with bash, NPM connection and webpack initi
 - Flex
 - Grid
 - Media queries
-=======
-https://dubsta-bubsta.github.io/ozon/
-# OZON - online shop  
-Created in August 2019
-# About
-This project was made on video from YouTube channel Glo academy. Layout and styles I took from the author. The JS code was implemented by the author and I repeated and understood it. The main reason I started doing this project is to connect Webpack. First used the bash console. Learned to use import/export and split a large JS file into many small modules.  
-As a result, I got a good experience with bash, NPM connection and webpack initial stage
-# Technologies used
-- HTML
-- CSS
-- Flex
-- Grid
-- Media queries
->>>>>>> dd30ec027fdb9bc4dc270a8e6751b59a9cd760e1
