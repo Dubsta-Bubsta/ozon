@@ -9,4 +9,4 @@ As a result, I got a good experience with bash, NPM connection and webpack initi
 - CSS
 - JavaScript
 - Media queries
-- Webpacks
+- Webpack
