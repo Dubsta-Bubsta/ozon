@@ -7,7 +7,6 @@ As a result, I got a good experience with bash, NPM connection and webpack initi
 # Technologies used
 - HTML
 - CSS
-- Flex
-- Grid
+- JavaScript
 - Media queries
 - Webpack
